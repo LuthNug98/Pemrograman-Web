@@ -1,0 +1,44 @@
+
+body {
+    background-image: url(../img/bg2.jpg);
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+    text-align:center;
+    
+}
+
+h1{
+	font-family: "comic sans ms";
+	font-size: 60px;
+	color:white;
+	text-align: center;
+}
+
+
+a{
+	text-decoration:none;
+	color: blue;
+	font-weight:bold;
+}
+a:hover{
+	text-decoration:none;
+	color: white;
+	text-decoration:underline;
+}
+
+#page-wrap {
+	text-align: left;
+
+
+}
+
+.lol {
+	color: blue;
+	text-align: center;
+
+
+}
+
+#m3 {
+	padding-left: 550px;
+}

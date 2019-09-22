@@ -1,0 +1,75 @@
+body {
+	background-image: url(../img/kk.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+
+/*.table-striped {
+	color: black;
+}*/
+#ppk {
+	padding-left:100px;
+}
+.bg-active {
+	position: relative;
+}
+
+.zz {
+	background-color:black;
+	position: relative;
+	padding-bottom: 5px;
+}
+
+h1{
+	background-color: #444;
+	width: 100%;
+	/*position: fixed;*/
+	z-index: 99;
+	border-top: 3px solid grey;
+	border-bottom: 3px solid black;
+	margin-top: -25px;
+	color: white;
+	padding-bottom: 20px;
+	border-radius: 10px;
+	padding-bottom: 10px;
+	border-radius: 10px;
+}
+
+.kotak1 {
+	margin-top: 50px;
+	color: black;
+	margin-top: -10px;
+	background-color: white;
+	box-shadow: 0px 0px 15px #333;
+	margin-left: 50px;
+	margin-right: 50px;
+	border-radius: 10px;
+} 
+
+.btn {
+	text-decoration: none;
+}
+
+#zzz {
+	color: white;
+	margin-left: 200px;
+}
+/*
+.theads {
+	color: white;
+	background-color: #0087ff;
+}*/
+
+
+#wew {
+	text-align: left;
+}
+
+#o {
+	text-align: center;
+	padding-left: 50px;
+}
+
+#head {
+	text-align: center;
+}

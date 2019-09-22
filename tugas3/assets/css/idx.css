@@ -1,0 +1,72 @@
+*{
+	text-decoration: none;
+}
+body{
+	background-color: ;
+}
+a:hover{
+	text-decoration: none;
+}
+.header{
+	background-color: grey;
+	width: 100%;
+	position: fixed;
+	z-index: 99;
+	border-top: 3px solid red;
+	border-bottom: 3px solid white;
+	margin-top: -4px;
+}
+.login	{
+	position: fixed;
+	z-index: 99;
+	background-color: black;
+}
+h1{
+	color: white;
+}
+
+.col-6, .col-md-4{
+	margin-top: 140px;
+}
+.kotak{
+	width: 400px;
+	height: 135px;
+	margin-top: 20px;
+	margin-bottom: 5px;
+	border-top-right-radius: 10px;
+	border-bottom-right-radius: 5px;
+	border-right-radius: 5px;
+	border-left-radius: 5px;
+	border-top: 100px solid red;
+	border-bottom: 100px solid white;
+	background: url(../assets/img/kk.jpg);
+}
+img{
+	margin: -60px 25px;
+	height: 120px;
+	width: 120px;
+}
+.nama{
+	color: white;
+	margin-top: -55px;
+	margin-left: 190px; 
+}
+.lahir{
+	color: black;
+	margin-top: -5px;
+	margin-left: 192px; 
+}
+.paper{
+	width: 420px;
+	border-radius: 10px;
+	padding:10px;
+	box-shadow: 0px 0px 2px #333;
+	background:rgba(0,0,0,0.1);
+}
+.footer{
+	margin-top: -50px;
+	border-top: 3px solid yellow;
+	padding-top: 10px;
+	width: 100%;
+	background-color: white;
+}

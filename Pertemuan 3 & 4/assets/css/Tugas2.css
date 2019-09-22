@@ -1,0 +1,34 @@
+body {
+	background-image: url(../img/wew.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+
+.kotak1 {
+	color: black;
+	margin-top: 50px;
+	background-color: white;
+	box-shadow: 0px 0px 15px #333;
+	margin-left: 100px;
+	margin-right: 100px;
+	border-radius: 10px;
+} 
+
+.theads {
+	color: white;
+	background-color: #0087ff;
+}
+
+
+#wew {
+	text-align: left;
+}
+
+#o {
+	text-align: center;
+	padding-left: 50px;
+}
+
+#head {
+	text-align: center;
+}
